@@ -1,4 +1,4 @@
-# ISLP
+# Fast-fashion
 This project is for Fast fashion
 
 ## Purpose
